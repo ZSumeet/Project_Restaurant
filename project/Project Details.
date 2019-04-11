@@ -1,0 +1,29 @@
+Problem : Analysing the best restaurants in major the cities.
+
+Input : Dummie data in the form of Excel or CSV file.
+
+1. Analyse the problem statement.
+   Its problem of Regression.
+
+2. Use free software (Anaconda).
+
+3. For diffrent operations and visualizations use diffrent libraries.
+
+
+4. Data prosessing.
+
+5. Data cleaning.
+
+6. By bar graph we show distribution of restaurents in diffrent countries.
+
+7. By pia graph we show number of restaurents take order online and have the option of booking table.
+
+8. By crosstab we get rating range according to price.
+
+9. By crosstab we determined which country have high rating.
+
+10. By barplot we determined highest count of food.
+
+11. By Barplot we determined the count of votes.
+
+12. We applied various algorithms in which we got best prediction with r2 score 0.959.
